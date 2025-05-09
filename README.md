@@ -1,6 +1,6 @@
 # Paulo Vitor Fonseca Barros
 
-Tenho 20 anos e atualmente estudo Engenharia da Computação na Universidade Estadual de Minas Gerais.
+Tenho 21 anos e atualmente estudo Engenharia da Computação na Universidade Estadual de Minas Gerais.
 
 ### Conecte-se comigo
 
