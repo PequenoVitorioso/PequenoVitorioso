@@ -15,8 +15,6 @@ Tenho 21 anos e atualmente estudo Engenharia da Computação na Universidade Est
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ### GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PequenoVitorioso&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PequenoVitorioso&layout=compact&theme=tokyonight)
 
 <!-- ### Meus Principais Desafios de Projeto DIO
